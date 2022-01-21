@@ -1,2 +1,17 @@
 this is on of the biggest state of india
 this is number one in population
+<html>
+<head>
+<title>name</title>
+</head>
+<body bgcolor="green" align="center">
+<div class="w3-container">
+<font face="italic" size=80 >MOHD. NAJIM</font>
+<h1>Music director</h1>
+<h2>Mumbai</h2>
+</h1>
+<div class="w3-container">
+<img src="waseem.jpeg"  width=70%>
+</div>
+</body>
+</html>
